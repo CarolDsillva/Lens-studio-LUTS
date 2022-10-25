@@ -1,4 +1,3 @@
-![logo][([https://github.com/Carol-Dsillva/Lens-studio-LUTS/Color correction (Luts).png](https://github.com/Carol-Dsillva/Lens-studio-LUTS/blob/main/Color%20correction%20(Luts).png))]
 # Lens-studio-LUTS
 Sample of LUTS provided in the product.
 
